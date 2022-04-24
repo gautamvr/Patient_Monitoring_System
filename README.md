@@ -3,10 +3,10 @@
  
  ## WorkFlow
  This Application has the following features: 
- 1.Patient Registration
- 2.Patient Report
- 3.ICU Bed Layout
- 4.Patient Discharge
+ 1. Patient Registration
+ 2. Patient Report
+ 3. ICU Bed Layout
+ 4. Patient Discharge
  
  When the patient is being admitted to the ICU, the patient's details is entered in the Patient registration page and the bed number is alloted through the services.
  
