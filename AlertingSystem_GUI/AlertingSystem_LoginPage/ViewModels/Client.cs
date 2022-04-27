@@ -24,15 +24,16 @@ namespace AlertingSystem_LoginPage.ViewModels
 
         public ObservableCollection<Patient> GetAllPatients()
         {
-            HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri(localurl);
             
-            client.DefaultRequestHeaders.Accept.Add(
-                new MediaTypeWithQualityHeaderValue("application/json"));
+            //HttpClient client = new HttpClient();
+            //client.BaseAddress = new Uri(localurl);
+            var output = new ObservableCollection<Patient>();
+            //client.DefaultRequestHeaders.Accept.Add(
+            //    new MediaTypeWithQualityHeaderValue("application/json"));
 
-            var response = client.GetAsync("api/NurseStation/GetPatient/").Result;
-            string s = response.Content.ReadAsStringAsync().Result;
-            var output = JsonConvert.DeserializeObject<ObservableCollection<Patient>>(s);
+            //var response = client.GetAsync("api/NurseStation/GetPatient/").Result;
+            //string s = response.Content.ReadAsStringAsync().Result;
+            //var output = JsonConvert.DeserializeObject<ObservableCollection<Patient>>(s);
             return output;
         }
 

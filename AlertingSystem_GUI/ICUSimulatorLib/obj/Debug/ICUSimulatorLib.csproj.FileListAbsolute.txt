@@ -9,3 +9,14 @@ C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\Newto
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.csproj.CopyComplete
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.dll
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\ICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\ICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\IICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\Newtonsoft.Json.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\IICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\bin\Debug\Newtonsoft.Json.xml
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.csproj.AssemblyReference.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.csproj.CoreCompileInputs.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.csproj.CopyComplete
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\ICUSimulatorLib\obj\Debug\ICUSimulatorLib.pdb

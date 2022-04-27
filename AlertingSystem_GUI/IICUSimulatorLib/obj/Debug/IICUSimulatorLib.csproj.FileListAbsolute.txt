@@ -3,3 +3,9 @@ C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\IICUSimulatorLib\bin\Debug\IICU
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.csproj.CoreCompileInputs.cache
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.dll
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\bin\Debug\IICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\bin\Debug\IICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.csproj.AssemblyReference.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.csproj.CoreCompileInputs.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\IICUSimulatorLib\obj\Debug\IICUSimulatorLib.pdb

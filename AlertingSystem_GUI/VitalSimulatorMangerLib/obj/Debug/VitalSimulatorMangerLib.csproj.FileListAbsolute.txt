@@ -11,3 +11,16 @@ C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Deb
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.csproj.CopyComplete
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.dll
 C:\Bootcamp\Phase2_RulesBased\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\VitalSimulatorMangerLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\VitalSimulatorMangerLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\ICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\IICUSimulatorLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\Newtonsoft.Json.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\ICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\IICUSimulatorLib.pdb
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\bin\Debug\Newtonsoft.Json.xml
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.csproj.AssemblyReference.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.csproj.CoreCompileInputs.cache
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.csproj.CopyComplete
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.dll
+C:\MyRepos\Github\Patient_Monitoring_System\AlertingSystem_GUI\VitalSimulatorMangerLib\obj\Debug\VitalSimulatorMangerLib.pdb
