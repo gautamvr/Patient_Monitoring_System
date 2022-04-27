@@ -92,6 +92,7 @@ namespace AlertingSystem_LoginPage.ViewModels
             {
                throw new HttpException("Error");
             }
+
             
         }
 
